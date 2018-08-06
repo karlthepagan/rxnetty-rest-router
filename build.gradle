@@ -26,6 +26,8 @@ dependencies {
 		'io.reactivex:rxnetty:0.5.1',
 
 		'com.google.inject:guice:4.1.0',
+        'com.google.auto.value:auto-value-annotations:1.6.2',
+        'com.google.auto.value:auto-value:1.6.2',
 
 		'org.glassfish.jersey.core:jersey-server:2.7',
 		'org.glassfish.jersey.containers:jersey-container-servlet-core:2.7',
